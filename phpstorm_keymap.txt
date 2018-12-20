@@ -1,0 +1,63 @@
+CTRL+G 定位行，跳转行
+
+CIRL+B 找变量的来源，跳到变量申明处 (CTRL+ 鼠标单击 也可以)
+
+CTRL+ALT+B 找到继承该接口或者父级 的所有子类, 统计所有子类个数
+
+CTRL+E 最近打开的文件
+
+CTRL+Q 快速打开函数的说明文档信息
+
+CTRL+P 快速打开函数的参数信息
+
+CTRL+W 选中光标所在单词
+
+CTRL+X 剪切,删除行
+
+CTRL+Y 删除行插入符号
+
+CTRL+D 复制行 , 快速分布li标签等
+
+ALT+Insert New(左侧)
+
+Alt+Enter Replace Quotes；Convert Arrays to Short Syntax；Fix Typos；Flip Comparison Operators；Generate Docblocks；Initialize Fields；Testing Regular Expressions；Working with If and Switch Statements
+
+ALT+ ←/→ 配合CIRL+B使用，回到跳转前的方法
+
+ALT+ ↑/↓ 移动到上/下个方法
+
+CTRL+SHIFT+U 大小写
+
+CTRL+SHIFT+V 粘贴板的历史记录
+
+Ctrl+Shift+Alt+T 修改多个相同变量名
+
+Ctrl+Shift+F7 高亮所有和选中相同的变量名
+
+CTRL+ALT+↑/↓ 移动两行代码
+
+CTRL+ALT+L 格式化代码
+
+SHIFT+F1 打开官网手册
+
+查找与替换
+
+F3    查找下一个位置
+
+Shift + F3 回到上一个查找位置
+
+Ctrl + R   替换
+
+Ctrl + Shift + F 在指定路径中查找
+
+Ctrl + Shift + R   在指定路径中替换
+
+Ctrl + Shift + N  根据关键词查找当前项目中的文件路径（常用）
+
+Alt + F7   项目中查找当前光标所在函数的使用情况
+
+Ctrl + F7   当前中查找当前光标所在函数的使用情况
+
+Ctrl + Shift + F7  高亮当前函数在当前文件的使用情况
+
+Ctrl + Alt + F7  展示当前函数在项目中的使用情况
