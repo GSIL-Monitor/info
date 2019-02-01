@@ -11,7 +11,8 @@ AuthPass => shtydev001
 
 （3）B端天楹回收仓库地址
 http://git.58xiaoxiang.top/repo.git
-
+http://git.58xiaoxiang.top/wxsp-business.git
+http://git.58xiaoxiang.top/wxsp-customer.git
 
 （4）API参考文档
 http://api.58xiaoxiang.top/ApiManager/index.php
@@ -53,6 +54,9 @@ ip: 139.196.185.136
 账号：www
 密码：betawww
 
+天楹回收log
+/usr/local/webserver/www
+
 本地虚拟机
 192.168.227.128
 
@@ -74,3 +78,10 @@ FTP账号： web13383913120 密码：123456
 端口： 3306
 用户名： b6e95f2dba2f43e5b77579012d9393a5
 密码：b95e6d2f283d4159b9158ea13d530a9c
+
+ctrl+shift+f
+529
+awgkysuowouwbich
+usa.yuntiss.pro
+
+site
